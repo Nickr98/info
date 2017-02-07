@@ -7,3 +7,4 @@ dati info;
 struct nodo* next;
 }nodo;
 typedef nodo* elLista;
+prova
